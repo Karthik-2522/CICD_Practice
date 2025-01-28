@@ -1,0 +1,4 @@
+# General dependencies for the project
+behave==1.2.6           
+selenium==4.25.0         
+behavex==4.0.9

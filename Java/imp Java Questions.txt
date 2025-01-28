@@ -1,0 +1,35 @@
+Difference related questions:
+
+1)Array and ArrayList
+
+2)HashMap and hashtable
+3)String,stringBuffer,StringBuilder(Pls watch durga video it has 4 to 7 minutes only)
+4)LinkedList and ArrayList
+5)Super() and this()
+6)super and this keyword
+7)Exception and error
+8)Compiletime and runtime exception
+9)final,finally and finalize()
+10)== and .equals
+11)Constructor and methods(Function)
+12)Method overloading and method overriding? 
+13)Abstract class and interface?
+14)String IndexOf() and lastIndexOf method
+15)List and set
+16)Array and collections
+17)throw and throws
+
+
+Definition related questions:
+
+1)What is the usage of static keyword?
+2)What is the usage of final keyword?
+3)What is the usage of constructor?
+4)What is the usage of Enum keyword?
+5)What is platform independent?
+6)What is Java?
+7)String methods and their usage?
+8)What is the usate of collections class?
+9)Where used OOPs Concepts in your project?
+10)Where you used collections concept in your project?
+11)Order of catch block exception?
