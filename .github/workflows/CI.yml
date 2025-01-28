@@ -31,12 +31,10 @@ jobs:
           pip install robotframework selenium
       - name: List files in the repository
         run: dir
-      - name: List all files in the repository (for debugging)
-        run: dir /s /b
 
       # Runs a single command using the runners shell
       - name: Run Robot Framework Tests
-        run: robot TestSuite/
+        run: robot Aristocrat/
       - name: Upload Robot Framework Reports
         uses: actions/upload-artifact@v4
         with:
